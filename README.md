@@ -1,4 +1,3 @@
-# n-gram
 ## N-gram Language Model
 
 ### Data
